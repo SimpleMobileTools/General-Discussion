@@ -36,3 +36,27 @@ You will most likely want to add a new file only if you translate an app in a ne
 10. thank yourself!
 
 \* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag.
+
+### How can I get notified if a translated file changes?
+Sadly Github doesn't have any built in way of setting up notifications/emails when a file changes, but there is a third party service https://app.github-file-watcher.com which seem to work just fine. It sends you an email whenever a new string is added or the file changes for whatever reason.
+There are 3 fields you have to fill.
+1. your email address
+2. the repository which contains the target file. Here is the list of the repositories, which you will have to add one by one, batch adding doesn't seem to be supported.  
+
+    SimpleMobileTools/Simple-App-Launcher  
+    SimpleMobileTools/Simple-Calculator  
+    SimpleMobileTools/Simple-Calendar  
+    SimpleMobileTools/Simple-Camera  
+    SimpleMobileTools/Simple-Draw  
+    SimpleMobileTools/Simple-File-Manager  
+    SimpleMobileTools/Simple-Flashlight  
+    SimpleMobileTools/Simple-Gallery  
+    SimpleMobileTools/Simple-Music-Player  
+    SimpleMobileTools/Simple-Notes  
+    SimpleMobileTools/Simple-Thank-You  
+
+    SimpleMobileTools/Simple-Commons (for this repository the file path in the next step will be different)
+
+3. the file path. For all regular apps the path will be `app/src/main/res/values-xx/strings.xml`, replacing `xx` with your language code. For the `Simple-Commons` repository the path begins with `commons`, making it `commons/src/main/res/values-xx/strings.xml`.
+
+
