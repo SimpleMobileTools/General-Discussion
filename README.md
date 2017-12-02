@@ -38,10 +38,10 @@ You will most likely want to add a new file only if you translate an app in a ne
 \* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag.
 
 ### How can I get notified if a translated file changes?
-Sadly Github doesn't have any built in way of setting up notifications/emails when a file changes, but there is a third party service https://app.github-file-watcher.com which seem to work just fine. It sends you an email whenever a new string is added or the file changes for whatever reason.
+Sadly Github doesn't have any built in way of setting up notifications/emails when a file changes, but there is a third party service https://app.github-file-watcher.com which seem to work just fine. It sends you an email whenever a new string is added or the watched file changes for whatever reason.
 There are 3 fields you have to fill.
 1. your email address
-2. the repository which contains the target file. Here is the list of the repositories, which you will have to add one by one, batch adding doesn't seem to be supported.  
+2. the repository which contains the target file, here is a list of the repositories. It appears that you will have to fill in the forms for every repository one by one, batch adding doesn't seem to be supported.  
 
     SimpleMobileTools/Simple-App-Launcher  
     SimpleMobileTools/Simple-Calculator  
@@ -57,6 +57,18 @@ There are 3 fields you have to fill.
 
     SimpleMobileTools/Simple-Commons (for this repository the file path in the next step will be different)
 
-3. the file path. For all regular apps the path will be `app/src/main/res/values-xx/strings.xml`, replacing `xx` with your language code. For the `Simple-Commons` repository the path begins with `commons`, making it `commons/src/main/res/values-xx/strings.xml`.
+3. the file path. For all regular apps the path will be `app/src/main/res/values-xx/strings.xml`, replacing `xx` with your language code. For `Simple-Commons` repository the path begins with `commons`, making it `commons/src/main/res/values-xx/strings.xml`.
 
+If you've setup everything properly, you should get a confirmation email for every repository. Then, whenever a file changes, you will get an email about it. The email will arrive only a couple hours after the actual file has been changed, but it's still good enough.
 
+This is a sample email, that you will receive once a file changes, in this example I'm using the German translation of the Calendar app.  
+
+<img alt="Github File Watcher" src="Screenshots/github-watcher-email.png" />
+
+You can see that it contains multiple clickable links, let's describe them from the bottom. The first one is for easy unsubscribing, when you don't want to watch the file anymore.  
+The middle one contains a link to the specific commit, which changed the file. If you search for "values-de", you can easily see what exactly changed.  
+The link at the top points to the new version of the file, created by the commit. It points to a side branch though, you will have to switch to the master branch. It's really easy, just look at the part above the file and look for a `Tree: xxxx` button, as seen on this screenshot.
+
+<img alt="Github File Watcher" src="Screenshots/github-watcher-branch.png" />
+
+Click on it, then select `master`. You will be redirected to the latest version of the file, which you can already edit by pressing the pencil, as described [here](https://github.com/SimpleMobileTools/General-Discussion#how-can-i-suggest-an-edit-to-a-file).
