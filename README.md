@@ -46,7 +46,8 @@ There are 3 fields you have to fill.
     SimpleMobileTools/Simple-App-Launcher  
     SimpleMobileTools/Simple-Calculator  
     SimpleMobileTools/Simple-Calendar  
-    SimpleMobileTools/Simple-Camera  
+    SimpleMobileTools/Simple-Camera
+    SimpleMobileTools/Simple-Contacts  
     SimpleMobileTools/Simple-Draw  
     SimpleMobileTools/Simple-File-Manager  
     SimpleMobileTools/Simple-Flashlight  
