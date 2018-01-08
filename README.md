@@ -13,7 +13,7 @@ Creating pull requests with some changes is a lot simpler than most people think
 2. find the file with the strings (app/src/main/res/values(-xx)/strings, for example the Italian translation of the Gallery is at https://github.com/SimpleMobileTools/Simple-Gallery/blob/master/app/src/main/res/values-it/strings.xml
 3. click the pencil button at the top right corner of the file
 4. edit the file with your suggestions*
-5. enter a commit message to the first row under the file
+5. add a commit message under the file, to the textfield which has a hint similar to "Update strings.xml". Just type in what have you done, for example "updating spanish strings".
 6. click `Propose file change`
 7. thank yourself!
 
@@ -31,7 +31,7 @@ You will most likely want to add a new file only if you translate an app in a ne
 5. add a file name, i.e. `strings.xml`
 6. copy the contents of an already existing strings.xml file into the new file (for example the content of https://github.com/SimpleMobileTools/Simple-Camera/blob/master/app/src/main/res/values/strings.xml)
 7. add your string translations*
-8. add a commit message
+8. add a commit message under the file, to the textfield which has a "Create new file" hint. Just type in what have you done, for example "adding spanish strings".
 9. press `Propose new file`
 10. thank yourself!
 
