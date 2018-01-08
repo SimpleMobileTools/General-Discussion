@@ -15,9 +15,11 @@ Creating pull requests with some changes is a lot simpler than most people think
 4. edit the file with your suggestions*
 5. add a commit message under the file, to the textfield which has a hint similar to "Update strings.xml". Just type in what have you done, for example "updating spanish strings".
 6. click `Propose file change`
-7. thank yourself!
+7. click the green button `Create pull request`
+8. thank yourself!
 
-\* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag.
+\* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag.  
+\* Please escape apostrophes, meaning you have to put a backslash before every apostrophe to make it look like: \\'
 
 For finding the proper language file at the Gallery go to https://github.com/SimpleMobileTools/Simple-Gallery/blob/master/app/src/main/res, then look for a "values-[language code]" folder. Use the `strings.xml` file inside it. If you can\'t find your language code, the file might not be translated to your language at all yet and you will have to create the whole new file.
 
@@ -33,9 +35,11 @@ You will most likely want to add a new file only if you translate an app in a ne
 7. add your string translations*
 8. add a commit message under the file, to the textfield which has a "Create new file" hint. Just type in what have you done, for example "adding spanish strings".
 9. press `Propose new file`
-10. thank yourself!
+10. click the green button `Create pull request`
+11. thank yourself!
 
-\* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag.
+\* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag.  
+\* Please escape apostrophes, meaning you have to put a backslash before every apostrophe to make it look like: \\'
 
 ### How can I get notified if a translated file changes?
 Sadly Github doesn't have any built in way of setting up notifications/emails when a file changes, but there is a third party service https://app.github-file-watcher.com which seem to work just fine. It sends you an email whenever a new string is added or the watched file changes for whatever reason.
