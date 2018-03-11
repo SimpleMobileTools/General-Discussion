@@ -68,6 +68,7 @@ There are 3 fields you have to fill.
     SimpleMobileTools/Simple-Calculator  
     SimpleMobileTools/Simple-Calendar  
     SimpleMobileTools/Simple-Camera  
+    SimpleMobileTools/Simple-Clock  
     SimpleMobileTools/Simple-Contacts  
     SimpleMobileTools/Simple-Draw  
     SimpleMobileTools/Simple-File-Manager  
