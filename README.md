@@ -49,8 +49,7 @@ You will most likely want to add a new file only if you translate an app in a ne
 2. find the place where the new file belongs. If it's really a translation of the strings in a new language, go to app/src/main/res, for example https://github.com/SimpleMobileTools/Simple-Camera/tree/master/app/src/main/res
 3. at the top right corner click at `Create new file`
 4. after the `res` folder you can type in your folder path. For creating a German translation just type in `values-de/` (where `de` is the country code). The new folder will be added automatically after typing the slash.
-5. add a file name, i.e. `strings.xml` (the path should look similar to the image below)
-<img alt="Github new file path" src="Media/Screenshots/github_new_file.png" />
+5. add a file name, i.e. `strings.xml` (the path should look similar to the image below)<img alt="Github new file path" src="Media/Screenshots/github_new_file.png" />
 6. copy the contents of an already existing strings.xml file into the new file (for example the content of https://github.com/SimpleMobileTools/Simple-Camera/blob/master/app/src/main/res/values/strings.xml)
 7. add your string translations*
 8. add a commit message under the file, to the textfield which has a "Create new file" hint. Just type in what have you done, for example "adding spanish strings".
