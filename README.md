@@ -89,12 +89,12 @@ If you've setup everything properly, you should get a confirmation email for eve
 
 This is a sample email, that you will receive once a file changes, in this example I'm using the German translation of the Calendar app.  
 
-<img alt="Github File Watcher" src="Media/Screenshots/github-watcher-email.png" />
+<img alt="Github File Watcher" src="Media/Screenshots/github_watcher_email.png" />
 
 You can see that it contains multiple clickable links, let's describe them from the bottom. The first one is for easy unsubscribing, when you don't want to watch the file anymore.  
 The middle one contains a link to the specific commit, which changed the file. If you search for "values-de", you can easily see what exactly changed.  
 The link at the top points to the new version of the file, created by the commit. It points to a side branch though, you will have to switch to the master branch. It's really easy, just look at the part above the file and look for a `Tree: xxxx` button, as seen on this screenshot.
 
-<img alt="Github File Watcher" src="Media/Screenshots/github-watcher-branch.png" />
+<img alt="Github File Watcher" src="Media/Screenshots/github_watcher_branch.png" />
 
 Click on it, then select `master`. You will be redirected to the latest version of the file, which you can already edit by pressing the pencil, as described [here](https://github.com/SimpleMobileTools/General-Discussion#how-can-i-suggest-an-edit-to-a-file).
