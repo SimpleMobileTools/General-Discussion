@@ -49,7 +49,7 @@ You will most likely want to add a new file only if you translate an app in a ne
 2. find the place where the new file belongs. If it's really a translation of the strings in a new language, go to app/src/main/res, for example https://github.com/SimpleMobileTools/Simple-Camera/tree/master/app/src/main/res
 3. at the top right corner click at `Create new file`
 4. after the `res` folder you can type in your folder path. For creating a German translation just type in `values-de/` (where `de` is the country code). The new folder will be added automatically after typing the slash.
-5. add a file name, i.e. `strings.xml` (the path should look similar to the image below)<img alt="Github new file path" src="Media/Screenshots/github_new_file.png" />
+5. add a file name, i.e. `strings.xml` (the path should look similar to the image below)<img alt="Github new file path" src="Media/Screenshots/Readme/github_new_file.png" />
 6. copy the contents of an already existing strings.xml file into the new file (for example the content of https://github.com/SimpleMobileTools/Simple-Camera/blob/master/app/src/main/res/values/strings.xml)
 7. add your string translations*
 8. add a commit message under the file, to the textfield which has a "Create new file" hint. Just type in what have you done, for example "adding spanish strings".
@@ -88,12 +88,12 @@ If you've setup everything properly, you should get a confirmation email for eve
 
 This is a sample email, that you will receive once a file changes, in this example I'm using the German translation of the Calendar app.  
 
-<img alt="Github File Watcher" src="Media/Screenshots/github_watcher_email.png" />
+<img alt="Github File Watcher" src="Media/Screenshots/Readme/github_watcher_email.png" />
 
 You can see that it contains multiple clickable links, let's describe them from the bottom. The first one is for easy unsubscribing, when you don't want to watch the file anymore.  
 The middle one contains a link to the specific commit, which changed the file. If you search for "values-de", you can easily see what exactly changed.  
 The link at the top points to the new version of the file, created by the commit. It points to a side branch though, you will have to switch to the master branch. It's really easy, just look at the part above the file and look for a `Tree: xxxx` button, as seen on this screenshot.
 
-<img alt="Github File Watcher" src="Media/Screenshots/github_watcher_branch.png" />
+<img alt="Github File Watcher" src="Media/Screenshots/Readme/github_watcher_branch.png" />
 
 Click on it, then select `master`. You will be redirected to the latest version of the file, which you can already edit by pressing the pencil, as described [here](https://github.com/SimpleMobileTools/General-Discussion#how-can-i-suggest-an-edit-to-a-file).
