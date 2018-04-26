@@ -2,22 +2,22 @@
 A place for discussing all apps in general + anything else you want to say.
 
 <div style="display:flex;">
-<img alt="App Launcher" src="Media/Screenshots/app_launcher.png" width="23%">
-<img alt="Calculator" src="Media/Screenshots/calculator.png" width="23%">
-<img alt="Calendar" src="Media/Screenshots/calendar.png" width="23%">
-<img alt="Camera" src="Media/Screenshots/camera.jpg" width="23%">
+<img alt="App Launcher" src="Media/Screenshots/Apps/app_launcher.png" width="23%">
+<img alt="Calculator" src="Media/Screenshots/Apps/calculator.png" width="23%">
+<img alt="Calendar" src="Media/Screenshots/Apps/calendar.png" width="23%">
+<img alt="Camera" src="Media/Screenshots/Apps/camera.jpg" width="23%">
 </br>
-<img alt="Clock" src="Media/Screenshots/clock.png" width="23%">
-<img alt="Contacts" src="Media/Screenshots/contacts.png" width="23%">
-<img alt="Draw" src="Media/Screenshots/draw.png" width="23%">
-<img alt="File Manager" src="Media/Screenshots/file_manager.png" width="23%">
+<img alt="Clock" src="Media/Screenshots/Apps/clock.png" width="23%">
+<img alt="Contacts" src="Media/Screenshots/Apps/contacts.png" width="23%">
+<img alt="Draw" src="Media/Screenshots/Apps/draw.png" width="23%">
+<img alt="File Manager" src="Media/Screenshots/Apps/file_manager.png" width="23%">
 </br>
-<img alt="Flashlight" src="Media/Screenshots/flashlight.png" width="23%">
-<img alt="Gallery" src="Media/Screenshots/gallery.jpg" width="23%">
-<img alt="Music Player" src="Media/Screenshots/music_player.png" width="23%">
-<img alt="Notes" src="Media/Screenshots/notes.png" width="23%">
+<img alt="Flashlight" src="Media/Screenshots/Apps/flashlight.png" width="23%">
+<img alt="Gallery" src="Media/Screenshots/Apps/gallery.jpg" width="23%">
+<img alt="Music Player" src="Media/Screenshots/Apps/music_player.png" width="23%">
+<img alt="Notes" src="Media/Screenshots/Apps/notes.png" width="23%">
 </br>
-<img alt="Thank You" src="Media/Screenshots/thank_you.png" width="23%">
+<img alt="Thank You" src="Media/Screenshots/Apps/thank_you.png" width="23%">
 </div>
 
 FAQ
