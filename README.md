@@ -37,7 +37,7 @@ Creating pull requests with some changes is a lot simpler than most people think
 7. click the green button `Create pull request`
 8. thank yourself!
 
-\* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag.  
+\* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag, also not the strings between "\<!--" and "-->"  
 \* Please escape apostrophes, meaning you have to put a backslash before every apostrophe to make it look like: \\'
 
 For finding the proper language file at the Gallery go to https://github.com/SimpleMobileTools/Simple-Gallery/blob/master/app/src/main/res, then look for a "values-[language code]" folder. Use the `strings.xml` file inside it. If you can\'t find your language code, the file might not be translated to your language at all yet and you will have to create the whole new file.
