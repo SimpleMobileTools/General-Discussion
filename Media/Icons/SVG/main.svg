@@ -1,9 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 viewBox="0 0 108.6 108.6" enable-background="new 0 0 108.6 108.6" xml:space="preserve">
-<path fill="#F57C00" d="M54.3,103.2L54.3,103.2c-27,0-48.9-21.9-48.9-48.9v0c0-27,21.9-48.9,48.9-48.9h0c27,0,48.9,21.9,48.9,48.9v0
-	C103.2,81.3,81.3,103.2,54.3,103.2z"/>
-<polygon fill="#FFFFFF" points="61.1,35 54.3,41.8 47.5,35 34,35 34,48.5 34,62.1 34,75.6 47.5,75.6 47.5,62.1 47.5,54.1 54.3,60.9 
-	61.1,54.1 61.1,62.1 61.1,75.6 74.6,75.6 74.6,62.1 74.6,48.5 74.6,35 "/>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 108.6 108.6"
+   enable-background="new 0 0 108.6 108.6"
+   xml:space="preserve"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="main.svg"
+   inkscape:export-filename="/home/tibbi/Plocha/icon.png"
+   inkscape:export-xdpi="424.44553"
+   inkscape:export-ydpi="424.44553"><metadata
+     id="metadata11"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs9" /><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="1029"
+     id="namedview7"
+     showgrid="false"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="51.352261"
+     inkscape:cy="42.251064"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" /><path
+     d="m 54.313672,108.56891 0,0 c -29.971983,0 -54.28259001,-24.310599 -54.28259001,-54.282582 l 0,0 c 0,-29.971982 24.31060701,-54.28258965 54.28259001,-54.28258965 l 0,0 c 29.971982,0 54.282588,24.31060765 54.282588,54.28258965 l 0,0 c 0,29.971983 -24.310606,54.282582 -54.282588,54.282582 z"
+     id="path3"
+     inkscape:export-filename="/home/tibbi/Plocha/icon.png"
+     inkscape:export-xdpi="471.16568"
+     inkscape:export-ydpi="471.16568"
+     inkscape:connector-curvature="0"
+     style="fill:#f57c00" /><polygon
+     points="34,62.1 34,75.6 47.5,75.6 47.5,62.1 47.5,54.1 54.3,60.9 61.1,54.1 61.1,62.1 61.1,75.6 74.6,75.6 74.6,62.1 74.6,48.5 74.6,35 61.1,35 54.3,41.8 47.5,35 34,35 34,48.5 "
+     id="polygon5"
+     transform="matrix(1.5184333,0,0,1.5184333,-28.192086,-29.654665)"
+     style="fill:#ffffff"
+     inkscape:export-filename="/home/tibbi/Plocha/icon.png"
+     inkscape:export-xdpi="471.16568"
+     inkscape:export-ydpi="471.16568" /></svg>
