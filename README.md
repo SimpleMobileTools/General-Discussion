@@ -78,7 +78,9 @@ There are 3 fields you have to fill.
     SimpleMobileTools/Simple-Gallery  
     SimpleMobileTools/Simple-Music-Player  
     SimpleMobileTools/Simple-Notes  
+    SimpleMobileTools/Simple-SMS-Messenger  
     SimpleMobileTools/Simple-Thank-You  
+    SimpleMobileTools/Simple-Voice-Recorder  
 
     SimpleMobileTools/Simple-Commons (for this repository the file path in the next step will be different)
 
