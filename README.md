@@ -72,6 +72,7 @@ There are 3 fields you have to fill.
     SimpleMobileTools/Simple-Camera  
     SimpleMobileTools/Simple-Clock  
     SimpleMobileTools/Simple-Contacts  
+    SimpleMobileTools/Simple-Dialer  
     SimpleMobileTools/Simple-Draw  
     SimpleMobileTools/Simple-File-Manager  
     SimpleMobileTools/Simple-Flashlight  
