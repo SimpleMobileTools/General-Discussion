@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="55mm"
+   viewBox="0 0 210 55"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="/home/tibbi/Desktop/logo.png"
+   inkscape:export-xdpi="471"
+   inkscape:export-ydpi="471">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="284.64844"
+     inkscape:cy="103.63865"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1028"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-242)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.55233765px;line-height:1.25;font-family:'Museo Sans Rounded';-inkscape-font-specification:'Museo Sans Rounded';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36380842"
+       x="53.813915"
+       y="272.90063"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="53.813915"
+         y="272.90063"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:serif;-inkscape-font-specification:'serif Bold';stroke-width:0.36380842"><tspan
+           style="fill:#f57c00;fill-opacity:1;stroke-width:0.36380842"
+           id="tspan819">simple</tspan><tspan
+           style="fill:#424242;fill-opacity:1;stroke-width:0.36380842"
+           id="tspan831">mobile</tspan><tspan
+           style="fill:#f57c00;fill-opacity:1;stroke-width:0.36380842"
+           id="tspan847">tools</tspan></tspan></text>
+    <path
+       d="m 27.263915,289.47896 v 0 c -10.904061,0 -19.7484663,-8.8444 -19.7484663,-19.74846 v 0 c 0,-10.90406 8.8444053,-19.74846 19.7484663,-19.74846 v 0 c 10.904064,0 19.748467,8.8444 19.748467,19.74846 v 0 c 0,10.90406 -8.844403,19.74846 -19.748467,19.74846 z"
+       id="path3"
+       inkscape:export-filename="/home/tibbi/Plocha/icon.png"
+       inkscape:export-xdpi="471.16568"
+       inkscape:export-ydpi="471.16568"
+       inkscape:connector-curvature="0"
+       style="fill:#f57c00;stroke-width:0.36380842" />
+    <polygon
+       points="47.5,75.6 47.5,62.1 47.5,54.1 54.3,60.9 61.1,54.1 61.1,62.1 61.1,75.6 74.6,75.6 74.6,62.1 74.6,48.5 74.6,35 61.1,35 54.3,41.8 47.5,35 34,35 34,48.5 34,62.1 34,75.6 "
+       id="polygon5"
+       transform="matrix(0.55241887,0,0,0.55241887,-2.7523783,239.19206)"
+       style="fill:#ffffff"
+       inkscape:export-filename="/home/tibbi/Plocha/icon.png"
+       inkscape:export-xdpi="471.16568"
+       inkscape:export-ydpi="471.16568" />
+  </g>
+</svg>
