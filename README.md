@@ -26,8 +26,10 @@ FAQ
 If you want to do anything from above, just create a new issue at the [Issues section](https://github.com/SimpleMobileTools/General-Discussion/issues) . Please be constructive and on-topic. In case you are reporting an issue either here, or at some specific app's repository, please give as much useful information as possible, ideally with steps to reproduce. Being able to reproduce a bug and understand it can really speed up the fixing.
 
 ### How can I suggest an edit to a file?
-Creating pull requests with some changes is a lot simpler than most people think. Most suggestions are related to the translated strings, the steps are as follows:
+Creating pull requests with some changes is a lot simpler than most people think. Most suggestions are related to translating strings, there are 2 ways to do it.
+You can find our apps on Weblate at https://hosted.weblate.org/projects/simple-mobile-tools/ , you can see untranslated strings there easily.
 
+However, if you prefer the oldstyle file updating via Github, you can still do it. The process is the following:
 1. log in to Github
 2. find the file with the strings (app/src/main/res/values(-xx)/strings, for example the Italian translation of the Gallery is at https://github.com/SimpleMobileTools/Simple-Gallery/blob/master/app/src/main/res/values-it/strings.xml
 3. click the pencil button at the top right corner of the file
