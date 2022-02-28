@@ -1,25 +1,6 @@
 # General-Discussion
 A place for discussing all apps in general + anything else you want to say.
 
-<div style="display:flex;">
-<img alt="App Launcher" src="Media/Screenshots/Apps/app_launcher.jpg" width="23%">
-<img alt="Calculator" src="Media/Screenshots/Apps/calculator.jpg" width="23%">
-<img alt="Calendar" src="Media/Screenshots/Apps/calendar.jpg" width="23%">
-<img alt="Camera" src="Media/Screenshots/Apps/camera.jpg" width="23%">
-</br>
-<img alt="Clock" src="Media/Screenshots/Apps/clock.jpg" width="23%">
-<img alt="Contacts" src="Media/Screenshots/Apps/contacts.jpg" width="23%">
-<img alt="Draw" src="Media/Screenshots/Apps/draw.jpg" width="23%">
-<img alt="File Manager" src="Media/Screenshots/Apps/file_manager.jpg" width="23%">
-</br>
-<img alt="Flashlight" src="Media/Screenshots/Apps/flashlight.jpg" width="23%">
-<img alt="Gallery" src="Media/Screenshots/Apps/gallery.jpg" width="23%">
-<img alt="Music Player" src="Media/Screenshots/Apps/music_player.jpg" width="23%">
-<img alt="Notes" src="Media/Screenshots/Apps/notes.jpg" width="23%">
-</br>
-<img alt="Thank You" src="Media/Screenshots/Apps/thank_you.jpg" width="23%">
-</div>
-
 FAQ
 ---
 ### How do I suggest an improvement, ask a question or report an issue?
