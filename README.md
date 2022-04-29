@@ -83,3 +83,10 @@ The link at the top points to the new version of the file, created by the commit
 <img alt="Github File Watcher" src="Media/Screenshots/Readme/github_watcher_branch.png" />
 
 Click on it, then select `master`. You will be redirected to the latest version of the file, which you can already edit by pressing the pencil, as described [here](https://github.com/SimpleMobileTools/General-Discussion#how-can-i-suggest-an-edit-to-a-file).
+
+### Contribution rules for developers
+1. every project contains an .editorconfig file, it has definitions of required indentations, newlines etc
+2. always format the code (Ctrl + Alt + L) and optimize imports (Ctrl + Alt + O) before creating a pull request
+3. if you add a new string, add it into all languages. If you speak a language yourself, translate it. If not, just use the english version. Do not use machine translating.
+4. if you add a new icon, make sure it is prefixed with "ic_", it is white and try using vectors
+5. if you change something in the UI, test the visibility with all themes, including System default (Material You) on Android 12+
