@@ -60,6 +60,7 @@ There are 3 fields you have to fill.
     SimpleMobileTools/Simple-File-Manager  
     SimpleMobileTools/Simple-Flashlight  
     SimpleMobileTools/Simple-Gallery  
+    SimpleMobileTools/Simple-Keyboard  
     SimpleMobileTools/Simple-Music-Player  
     SimpleMobileTools/Simple-Notes  
     SimpleMobileTools/Simple-SMS-Messenger  
