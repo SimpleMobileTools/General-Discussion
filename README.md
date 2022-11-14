@@ -92,3 +92,4 @@ Click on it, then select `master`. You will be redirected to the latest version 
 4. if you add a new icon, make sure it is prefixed with "ic_", it is white and try using vectors
 5. if you change something in the UI, test the visibility with all themes, including System default (Material You) on Android 12+
 6. use the existing code style and naming conventions, do not bring your own style
+7. use brackets even at 1 liner if statements
