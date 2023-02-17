@@ -93,3 +93,5 @@ Click on it, then select `master`. You will be redirected to the latest version 
 5. if you change something in the UI, test the visibility with all themes, including Black & White and System default (Material You) on Android 12+
 6. use the existing code style and naming conventions, do not bring your own style
 7. always use brackets, even at 1 liner "if", "return" or "continue" statements etc
+
+If you try fixing a bug or adding a new feature, you should make sure that it is already reported at the given repository and the report is open and marked as a Bug or Feature Request. If the given issue is closed, chances are that we are not interested in the given feature and your pull request will likely be rejected.
