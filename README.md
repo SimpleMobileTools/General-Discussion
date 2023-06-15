@@ -8,7 +8,7 @@ FAQ
 2. if you are reporting a bug, try giving steps for reproducing too. Also mention your app and OS version.
 3. make sure you use the latest app version and read the in-app FAQ before reporting anything
 4. make sure the given thing isn't reported yet, you can also use Search with some keywords
-
+  
 ## Contribution rules for developers
 1. every project contains an .editorconfig file, it has definitions of required indentations, newlines etc
 2. always format the code (Ctrl + Alt + L) and optimize imports (Ctrl + Alt + O) before creating a pull request
@@ -18,8 +18,10 @@ FAQ
 6. use the existing code style and naming conventions, do not bring your own style
 7. always use brackets, even at 1 liner "if", "return" or "continue" statements etc
 8. if you add a new model or work with gson, test the build in release mode with proguard enabled aswell
+9. there is no real functionality change between build flavors, only some About button visibility differences, Rate Us dialog and More Apps From Us buttons not showing up or so. The proprietary gallery build has a more advanced photo and video editor, while the foss one has a basic only.
 
 If you try fixing a bug or adding a new feature, you should make sure that it is already reported at the given repository and the report is open and marked as a Bug or Feature Request. If the given issue is closed, chances are that we are not interested in the given feature and your pull request will likely be rejected.
+
 
 ## How can I suggest an edit to a file?
 Creating pull requests with some changes is a lot simpler than most people think. Most suggestions are related to translating strings, there are 2 ways to do it.
@@ -39,6 +41,7 @@ However, if you prefer the oldstyle file updating via Github, you can still do i
 \* Please escape apostrophes, meaning you have to put a backslash before every apostrophe to make it look like: \\'
 
 For finding the proper language file at the Gallery go to https://github.com/SimpleMobileTools/Simple-Gallery/blob/master/app/src/main/res, then look for a "values-[language code]" folder. Use the `strings.xml` file inside it. If you can\'t find your language code, the file might not be translated to your language at all yet and you will have to create the whole new file.
+
 
 ## How do I add a new file?
 You will most likely want to add a new file only if you translate an app in a new language. Doing it is actually not difficult at all, just read on.
