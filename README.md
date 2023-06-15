@@ -8,7 +8,9 @@ FAQ
 2. if you are reporting a bug, try giving steps for reproducing too. Also mention your app and OS version.
 3. make sure you use the latest app version and read the in-app FAQ before reporting anything
 4. make sure the given thing isn't reported yet, you can also use Search with some keywords
-  
+
+<p>&nbsp;</p> 
+
 ## Contribution rules for developers
 1. every project contains an .editorconfig file, it has definitions of required indentations, newlines etc
 2. always format the code (Ctrl + Alt + L) and optimize imports (Ctrl + Alt + O) before creating a pull request
@@ -22,6 +24,7 @@ FAQ
 
 If you try fixing a bug or adding a new feature, you should make sure that it is already reported at the given repository and the report is open and marked as a Bug or Feature Request. If the given issue is closed, chances are that we are not interested in the given feature and your pull request will likely be rejected.
 
+<p>&nbsp;</p> 
 
 ## How can I suggest an edit to a file?
 Creating pull requests with some changes is a lot simpler than most people think. Most suggestions are related to translating strings, there are 2 ways to do it.
@@ -42,6 +45,7 @@ However, if you prefer the oldstyle file updating via Github, you can still do i
 
 For finding the proper language file at the Gallery go to https://github.com/SimpleMobileTools/Simple-Gallery/blob/master/app/src/main/res, then look for a "values-[language code]" folder. Use the `strings.xml` file inside it. If you can\'t find your language code, the file might not be translated to your language at all yet and you will have to create the whole new file.
 
+<p>&nbsp;</p> 
 
 ## How do I add a new file?
 You will most likely want to add a new file only if you translate an app in a new language. Doing it is actually not difficult at all, just read on.
@@ -60,6 +64,8 @@ You will most likely want to add a new file only if you translate an app in a ne
 
 \* Change only the string which is between ">" and "\</string\>", _not_ the first one after the "name=" tag.  
 \* Please escape apostrophes, meaning you have to put a backslash before every apostrophe to make it look like: \\'
+
+<p>&nbsp;</p> 
 
 ## How can I get notified if a translated file changes?
 Sadly Github doesn't have any built in way of setting up notifications/emails when a file changes, but there is a third party service https://app.github-file-watcher.com which seem to work just fine. It sends you an email whenever a new string is added or the watched file changes for whatever reason.
