@@ -5,9 +5,10 @@ FAQ
 ---
 ## How do I suggest an improvement, ask a question or report an issue?
 1. this General Discussion repository is used for bugs and suggestions that affect multiple apps. For issues affecting only 1 app use its separate repository
-2. if you are reporting a bug, try giving steps for reproducing too. Also mention your app and OS version.
+2. if you are reporting a bug, try giving steps for reproducing too. Also mention your app and OS version
 3. make sure you use the latest app version and read the in-app FAQ before reporting anything
 4. make sure the given thing isn't reported yet, you can also use Search with some keywords
+5. if the thing you wanted to report has already been reported, don't forget giving it an upvote to increase its priority
 
 <p>&nbsp;</p> 
 
