@@ -17,7 +17,7 @@ FAQ
 2. always format the code (Ctrl + Alt + L) and optimize imports (Ctrl + Alt + O) before creating a pull request
 3. if you add a new string, add it into all languages. If you speak a language yourself, translate it. If not, just use the english version. Do not use machine translating
 4. if you add a new icon, make sure it is prefixed with "ic_", it is white and try using vectors
-5. if you change something in the UI, test the visibility with all themes, including Black & White and System default (Material You) on Android 12+
+5. if you change something in the UI, test the visibility with all themes, including Black & White and System default (Material You) on Android 12+. Test the changes by using the biggest system font size too.
 6. use the existing code style and naming conventions, do not bring your own style
 7. always use brackets, even at 1 liner "if", "return" or "continue" statements etc
 8. if you add a new model or work with gson, test the build in release mode with proguard enabled aswell
